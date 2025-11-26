@@ -1,0 +1,11 @@
+Agata Ferreira, Philipp Sandner,
+Eu search for regulatory answers to crypto assets and their place in the financial markets’ infrastructure,
+Computer Law & Security Review,
+Volume 43,
+2021,
+105632,
+ISSN 2212-473X,
+https://doi.org/10.1016/j.clsr.2021.105632.
+(https://www.sciencedirect.com/science/article/pii/S0267364921001059)
+Abstract: Crypto assets are no longer a niche topic for geeks but an important trend in financial markets and an uprising asset class. This is due to technological advancements, spike in token issuances, and Facebook's Libra project, now called Diem, among other things. Many potential benefits of crypto assets for the financial sector are widely recognized, including cost savings, improved efficiency and transparency. The rapid growth of the crypto assets ecosystem has intensified the focus of regulators. They are challenged to provide an adequate response, protect investors and customers, and mitigate risks while fostering technological development. Currently, at the EU-wide level, there is a regulatory gap, which contributes to legal uncertainty and weak investor protection. Several European jurisdictions have been proactive and successfully designed their own national regulatory solutions to crypto assets. Many European and international supervisory and regulatory bodies contributed to the debate and issued reports, analysis and statements highlighting risks and making regulatory recommendations. The European Commission took the first steps to assume its competence over all crypto assets within the EU and, after a comprehensive review of the entire crypto assets ecosystem, issued a proposal for a regulation on markets in crypto assets. This paper evaluates the EU's current regulatory approach to crypto assets against the background of the views and reports of several advisory and supervisory bodies and international organizations and against market developments.
+Keywords: Distributed ledger technology; Blockchain; Crypto assets; Stablecoins; Regulations
